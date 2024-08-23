@@ -7527,6 +7527,7 @@ fieldset:disabled .btn {
   clip: rect(0, 0, 0, 0) !important;
   white-space: nowrap !important;
   border: 0 !important;
+  background-color: #575757;
 }
 
 .stretched-link::after {
